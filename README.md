@@ -1,11 +1,11 @@
 # HelloWorld
 This is a HelloWorld program...
 
-### 实验内容：
+## 实验内容：
 
 Android实验一_Android开发基础，本代码创建了Android工程，并在工程中通过一系列的输出验证了Activity的生命周期。
 
-### 关键代码：
+## 关键代码：
 
 通过覆写Activity生命周期中主要涉及的七种方法验证生命周期。
 
@@ -64,4 +64,13 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-### 实验结果：
+## 实验结果：
+### 1.运行HelloWorld<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/HelloWorld.png)<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/Activity1.png)<br>
+### 2.返回桌面时的后台输出<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/Activity2.png)<br>
+### 3.再次返回HelloWorld<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/Activity3.png)<br>
+### 4.退出程序HelloWorld<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/Activity4.png)<br>
